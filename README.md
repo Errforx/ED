@@ -10,10 +10,10 @@ Installation For 'CLI' Users:
 
 	python main.py
 
-Installation for IDC:
+Installation for I don't know?:
 	
 	install it using zip if you don't know how to do that, GOOGLE IS THE ANSWER!!
 
 End that is all....
 
-----Errforx@Wh4t3v3r OUT!!
+---Errforx@Wh4t3v3r OUT!!
