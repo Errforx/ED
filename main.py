@@ -1,7 +1,8 @@
 import time
 import os
 import base64
-import pyperclip
+# import pyperclip if u want to automatically copy it to clipboard
+# Be CREATIVE with this, just make this a "Reference"
 
 def clear():
     if os.name == 'nt':
